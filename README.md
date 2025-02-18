@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 👨‍💻 All of my projects are available at [https://sangambakhunchhe.com.np/](https://sangambakhunchhe.com.np/)
+
 
 - 💬 Ask me about **MERN**
 
